@@ -1,0 +1,28 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+
+  padding-bottom: 50px;
+  width: 100%;
+
+  background-color: #152850;
+  height: 100vh;
+}
+
+.home-description {
+  font-family: 'Roboto';
+
+  font-size: 48px;
+  line-height: 28px;
+  color: #ffffff;
+
+  text-align: center;
+  font-weight: 600;
+}
+
+.home-desktop-img {
+  width: 70%;
+}
